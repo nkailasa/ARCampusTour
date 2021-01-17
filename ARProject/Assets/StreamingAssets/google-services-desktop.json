@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250234132211",
+    "firebase_url": "https://ar-campus-tour-app.firebaseio.com",
+    "project_id": "ar-campus-tour-app",
+    "storage_bucket": "ar-campus-tour-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250234132211:android:f5c93ae5a1575af3558986",
+        "android_client_info": {
+          "package_name": "com.google.firebase.ARfirebase.huqeehbears"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250234132211-i4v3fjtm4sjcq32dc82jakmpjrsa3dhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1OHs2zdy8ahTSV631TFnXxVHinHnavug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250234132211-i4v3fjtm4sjcq32dc82jakmpjrsa3dhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

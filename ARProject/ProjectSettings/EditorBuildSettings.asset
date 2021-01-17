@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RemoteDevice.unity
+    guid: dbfd6f08f8880ff4c9dc2b668b850798
+  - enabled: 1
+    path: Assets/Scenes/HomePage.unity
+    guid: 4823edb54a7bbc841b1863e00ab07167
+  - enabled: 1
+    path: Assets/Scenes/ClassScheduleUI.unity
+    guid: edd0491254d7f3b4789852944aab8a49
+  - enabled: 1
+    path: Assets/Scenes/AddNewClass.unity
+    guid: 2f25750deb783764685c7b5369479d25
+  - enabled: 1
+    path: Assets/Scenes/ASUMapScene.unity
+    guid: c5481c912d539704ab03dfe0b91550a2
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 2b08370d4750d234c965a0f6d10329e2,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d7206af28952b5f4fbc42f125c25df0f,
+      type: 2}
